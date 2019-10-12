@@ -1,0 +1,13 @@
+characters: 582
+lines: 6
+words: 44
+again: 2
+between: 2
+broke: 2
+control: 2
+curiously: 2
+dissemble: 2
+doing: 2
+entire: 2
+everyone: 2
+feelings: 2

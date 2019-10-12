@@ -1,0 +1,13 @@
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\bin\Debug\WordCount.exe.config
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\bin\Debug\WordCount.exe
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\bin\Debug\WordCount.pdb
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\obj\Debug\WordCount.exe
+E:\作业\系统设计与分析\WordCount1\WordCount\WordCount\obj\Debug\WordCount.pdb
+E:\作业\系统设计与分析\WordCount\201731062601\WordCount\WordCount\bin\Debug\WordCount.exe.config
+E:\作业\系统设计与分析\WordCount\201731062601\WordCount\WordCount\bin\Debug\WordCount.exe
+E:\作业\系统设计与分析\WordCount\201731062601\WordCount\WordCount\bin\Debug\WordCount.pdb
+E:\作业\系统设计与分析\WordCount\201731062601\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+E:\作业\系统设计与分析\WordCount\201731062601\WordCount\WordCount\obj\Debug\WordCount.exe
+E:\作业\系统设计与分析\WordCount\201731062601\WordCount\WordCount\obj\Debug\WordCount.pdb
